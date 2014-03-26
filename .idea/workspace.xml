@@ -37,10 +37,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SpecRunner.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="SpecRunner.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/SpecRunner.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="1" selection-start="577" selection-end="577" vertical-scroll-proportion="0.50530785">
+            <state line="14" column="1" selection-start="577" selection-end="577" vertical-scroll-proportion="-9.153846">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="67" selection-start="862" selection-end="862" vertical-scroll-proportion="0.6135881">
               <folding />
             </state>
           </provider>
@@ -58,7 +67,7 @@
       <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="100" selection-start="1" selection-end="1" vertical-scroll-proportion="0.0">
+            <state line="11" column="80" selection-start="408" selection-end="408" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -68,7 +77,10 @@
         <entry file="file://$PROJECT_DIR$/test/spec/ConverterSpec.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="7" column="100" selection-start="347" selection-end="347" vertical-scroll-proportion="0.0">
-              <folding />
+              <folding>
+                <marker date="1395828575350" expanded="true" signature="36:346" placeholder="{...}" />
+                <marker date="1395828575350" expanded="true" signature="229:343" placeholder="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -88,12 +100,14 @@
         <option value="$PROJECT_DIR$/test/spec/ConverterSpec.js" />
         <option value="$PROJECT_DIR$/js/converter.js" />
         <option value="$PROJECT_DIR$/test/SpecRunner.html" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="148" />
-    <option name="y" value="20" />
+    <option name="x" value="314" />
+    <option name="y" value="50" />
     <option name="width" value="1204" />
     <option name="height" value="672" />
   </component>
@@ -233,10 +247,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ger\RubymineProjects\ARIAtest7" />
+      <recent name="C:\Users\Ger\RubymineProjects\ARIAtest7\js\vendor" />
+      <recent name="C:\Users\Ger\RubymineProjects\ARIAtest7\css" />
       <recent name="C:\Users\Ger\RubymineProjects\ARIAtest7\test\js" />
       <recent name="C:\Users\Ger\RubymineProjects\ARIAtest7\test\spec" />
-      <recent name="C:\Users\Ger\RubymineProjects\ARIAtest7\test\css" />
-      <recent name="C:\Users\Ger\RubymineProjects\ARIAtest7\test" />
     </key>
   </component>
   <component name="RunManager">
@@ -295,7 +310,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="148" y="20" width="1204" height="672" extended-state="0" />
+    <frame x="314" y="50" width="1204" height="672" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -391,17 +406,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="100" selection-start="1" selection-end="1" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/spec/ConverterSpec.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="100" selection-start="347" selection-end="347" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <marker date="1395828575350" expanded="true" signature="36:346" placeholder="{...}" />
+            <marker date="1395828575350" expanded="true" signature="229:343" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -414,7 +425,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/SpecRunner.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="1" selection-start="577" selection-end="577" vertical-scroll-proportion="0.50530785">
+        <state line="14" column="1" selection-start="577" selection-end="577" vertical-scroll-proportion="-9.153846">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="80" selection-start="408" selection-end="408" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="67" selection-start="862" selection-end="862" vertical-scroll-proportion="0.6135881">
           <folding />
         </state>
       </provider>
